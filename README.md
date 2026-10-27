@@ -60,19 +60,23 @@ The quiz currently contains five questions.
 
 # How It Works
 
-The questions, answer options, and correct answers are stored in a JavaScript array.
-JavaScript displays the current question and creates a button for each answer option.
-When an option is selected, the application checks whether it matches the correct answer.
-The score is updated for correct answers, and the next question is displayed.
-After the final question, the application displays the user's score.
+1. The questions, answer options, and correct answers are stored in a JavaScript array.
+2. JavaScript displays the current question and creates a button for each answer option.
+3. When an option is selected, the application checks whether it matches the correct answer.
+4. The score is updated for correct answers, and the next question is displayed.
+5. After the final question, the application displays the user's score.
 # Future Improvements
 
 Potential enhancements include:
 
 Add more questions and difficulty levels.
+
 Display immediate feedback for correct and incorrect answers.
+
 Add a restart button to attempt the quiz again.
+
 Show the correct answer after each selection.
+
 Store high scores using browser local storage.
 # License
 
