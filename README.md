@@ -5,11 +5,17 @@ An interactive, browser-based quiz application built using HTML, CSS, and JavaSc
 # Features
 
 Multiple-choice questions: Each question provides four answer options.
+
 Interactive interface: Select an answer by clicking an option.
+
 Score tracking: Correct answers increase the user's score.
+
 Automatic progression: Selecting an answer moves the quiz to the next question.
+
 Final results: Displays the total score after all questions are answered.
+
 Responsive styling: Uses a flexible layout designed to fit different screen widths.
+
 Separate source files: HTML, CSS, and JavaScript are organized into separate files.
 
 # Technologies Used
