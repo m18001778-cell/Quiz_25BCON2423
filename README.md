@@ -33,10 +33,10 @@ Installation and Usage
 
 Clone the repository:
 
-    git clone https://github.com/pulkit25bcon/Quiz_25BCON1037.git
+    git clone https://github.com/m18001778-cell/Quiz_25BCON2423.git
 Open the project folder:
 
-    cd Quiz-25BOCN1037
+    cd Quiz-25BOCN2423
 Open index.html in your web browser.
 
 Read each question and click an answer option to continue.
